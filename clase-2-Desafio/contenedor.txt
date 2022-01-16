@@ -1,0 +1,1 @@
+[{"title":"Escuadra","price":123.45,"thumbail":"https://cdn3.icon.png"},{"title":"otro","price":154.45,"thumbail":"https://cdn3.icon.png"},{"title":"otromas","price":456.45,"thumbail":"https://cdn3.icon.png"}]
